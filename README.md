@@ -4,3 +4,4 @@ Deleted for being dynamic content
 im getting better use beautifulsoup and requests, but still at the very start
 
 Im trying to get the videos since the page is dynamically rendering content using javascript.
+Got sick and vomitted the previous days didnt work much
